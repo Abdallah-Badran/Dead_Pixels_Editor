@@ -21,7 +21,7 @@ An image processing application that performs some operations on images and vide
 3- Watch the demo vedio to apply the CBIR and CBVR algorithms<br/>
 
 ## Demo Vedio Link
-https://www.youtube.com/watch?v=CsPWWU-AjPA
+https://www.youtube.com/watch?v=qPyqLl4fhlk
 
 
 ## Team Members:
