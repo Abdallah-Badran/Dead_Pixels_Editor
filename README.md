@@ -23,10 +23,9 @@ An image processing application that performs some operations on images and vide
 ## Demo Vedio Link
 https://www.youtube.com/watch?v=qPyqLl4fhlk
 
-
 ## Team Members:
-1- Gerges Wageh Thabet<br/>
-2- Mohamed Ramadan Said <br/>
-3- Ali Mohammed Ali<br/>
-4- Abdelhamed Khaled Mohammed<br/>
-5- Abdallah amr Mohammed Badran<br/>
+* Abdallah amr Mohammed Badran<br/>
+* Abdelhamed Khaled Mohammed<br/>
+* Ali Mohammed Ali<br/>
+* Gerges Wageh Thabet<br/>
+* Mohamed Ramadan Said <br/>
