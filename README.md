@@ -24,8 +24,8 @@ An image processing application that performs some operations on images and vide
 https://www.youtube.com/watch?v=qPyqLl4fhlk
 
 ## Team Members:
-* Abdallah amr Mohammed Badran<br/>
+* Abdallah Amr Mohammed Badran<br/>
 * Abdelhamed Khaled Mohammed<br/>
 * Ali Mohammed Ali<br/>
-* Gerges Wageh Thabet<br/>
+* Gerges Wegeh Thabet<br/>
 * Mohamed Ramadan Said <br/>
